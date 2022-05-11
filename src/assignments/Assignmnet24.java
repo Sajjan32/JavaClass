@@ -1,7 +1,7 @@
 package assignments;
 import java.util.Scanner;
 public class Assignmnet24 {
-
+//question24
 	public static void main(String[] args) {
 	Scanner keyboard = new Scanner (System.in);	
 	int n = keyboard.nextInt();
