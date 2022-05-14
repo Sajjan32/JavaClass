@@ -1,6 +1,7 @@
 package assignments;
 
 import java.util.Scanner;
+//solution 21
 
 public class Assignment21 {
 
